@@ -24,6 +24,7 @@
     <link rel="stylesheet" href="<?=templates()?>css/app-light.css" id="lightTheme">
     <link rel="stylesheet" href="<?=templates()?>css/app-dark.css" id="darkTheme" disabled>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
     <style type="text/css">
       #mapid { height: 100vh; }
       .icon {
